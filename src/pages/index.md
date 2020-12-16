@@ -16,6 +16,9 @@ sections:
       this blog on the 16 of December 2020 because of Bitcoin's all time high
       value. I'm interested in the crypto market and I bet you are interested.
       Feel relaxed and have a glass of water while we move through together. 
+
+
+      WELCOME TO MY BLOG!
     actions:
       - label: Contact Me
         url: '+2348055828278'

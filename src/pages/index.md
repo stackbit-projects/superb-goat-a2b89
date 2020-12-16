@@ -18,7 +18,7 @@ sections:
       Feel relaxed and have a glass of water while we move through together. 
 
 
-      WELCOME TO MY BLOG!
+      ###### **WELCOME TO MY BLOG!**
     actions:
       - label: Contact Me
         url: '+2348055828278'

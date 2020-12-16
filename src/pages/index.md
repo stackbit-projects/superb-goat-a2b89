@@ -18,7 +18,7 @@ sections:
       Feel relaxed and have a glass of water while we move through together. 
     actions:
       - label: Contact Me
-        url: +
+        url: '+2348055828278'
         style: button
       - label: lorem-ipsum
         url: lorem-ipsum

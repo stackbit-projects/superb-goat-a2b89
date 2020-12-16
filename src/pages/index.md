@@ -20,7 +20,7 @@ sections:
       - label: Contact Me
         url: '+2348055828278'
         style: button
-      - label: lorem-ipsum
+      - label: ''
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum

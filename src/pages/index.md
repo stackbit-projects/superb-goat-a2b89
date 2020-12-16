@@ -12,10 +12,10 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      My name is Kenneth Ogueri and I am called the Son of Business. I started
+      this blog on the 16 of December 2020 because of Bitcoin's all time high
+      value. I'm interested in the crypto market and I bet you are interested.
+      Feel relaxed and have a glass of water while we move through together. 
     actions:
       - label: Contact Me
         url: /contact
